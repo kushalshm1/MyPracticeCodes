@@ -1,0 +1,1 @@
+readMe = open('exampleFile.txt','r').read()
